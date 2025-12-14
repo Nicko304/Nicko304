@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :google: I currently work as a full-stack Software Engineer at Google - Youtube Ads.
+- 💼 I currently work as a full stack Software Engineer at Google - Youtube Ads.
 - :school: I have graduated with a Computer Science degree from the [University of Southern California (USC)](https://www.usc.edu/).
 <!--
 - :trophy: 2x `ACPC` Finalist.
