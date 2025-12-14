@@ -8,7 +8,8 @@
 
 <br><br>
 
-- :school: I am a `Senior` at the [University of Southern California (USC)](https://www.usc.edu/).
+- :google: I currently work as a full-stack Software Engineer at Google - Youtube Ads.
+- :school: I have graduated with a Computer Science degree from the [University of Southern California (USC)](https://www.usc.edu/).
 <!--
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
